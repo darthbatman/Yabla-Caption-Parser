@@ -6,7 +6,7 @@ Parses array of captions from Yabla video to generate a readable video script.
 
 Inspect Element Yabla video webpage
 
-Find <script> tag with var CAPTIONS
+Find \<script\> tag with var CAPTIONS
 
 Copy array of captions starting with [ and ending with ]
 
